@@ -28,3 +28,4 @@
 .idea/gradle.xml
 .idea/dataSources.*
 atlassian-ide-plugin.xml
+.vscode
